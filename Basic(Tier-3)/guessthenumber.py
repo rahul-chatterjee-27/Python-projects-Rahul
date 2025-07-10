@@ -4,7 +4,7 @@ print("You have to enter lower and upper limits and guess the numbers in between
 
 num1=int(input("Enter the lower limit: "))
 num2=int(input("Enter the upper limit: "))
-num=r.randint(num1,num2)
+num=r.randint(num1,num2) 
 
 count=1
 while count<=10:
