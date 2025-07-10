@@ -26,6 +26,9 @@ Simulates rolling multiple dice as many times as the user wants.
 Generates a custom password based on user-specified number of digits, letters, and symbols. Also gives a password strength rating.  
 🔸 **Concepts**: Random selections, String manipulation, Lists
 
+### 🏧 6. ATM Simulation
+A basic simulation of ATM operations including balance inquiry, deposit, and withdrawal.  
+🔸 **Concepts**: Conditionals, User Input, Basic banking logic, Error handling
 
 
 ---
