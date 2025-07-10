@@ -22,6 +22,12 @@ A simple rock-paper-scissors game between the user and a bot using emojis.
 Simulates rolling multiple dice as many times as the user wants.  
 🔸 **Concepts**: Loops, Random, Counters
 
+### 🔐 5. Password Generator
+Generates a custom password based on user-specified number of digits, letters, and symbols. Also gives a password strength rating.  
+🔸 **Concepts**: Random selections, String manipulation, Lists
+
+
+
 ---
 
 ## 🛠️ Requirements
