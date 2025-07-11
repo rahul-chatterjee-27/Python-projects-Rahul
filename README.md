@@ -18,7 +18,7 @@ Generates a QR code from a URL input and saves it as an image file.
 A simple rock-paper-scissors game between the user and a bot using emojis.  
 🔸 **Concepts**: Game logic, Loops, Randomization, String manipulation
 
-### 🎲 4. Rolling Dice Simulator
+### 🎲 4. Rolling Dice Simulator (Tier 3)
 Simulates rolling multiple dice as many times as the user wants.  
 🔸 **Concepts**: Loops, Random, Counters
 
