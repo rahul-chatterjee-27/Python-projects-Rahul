@@ -6,7 +6,7 @@ This repository contains a growing collection of beginner to intermediate-level 
 
 ## 📂 Current Projects
 
-### 🎯 1. Guess the Number
+### 🎯 1. Guess the Number (Tier 3)
 A number-guessing game where the user tries to guess a randomly generated number within a range and a limited number of attempts.  
 🔸 **Concepts**: Loops, Random, User Input, Scoring
 
@@ -26,7 +26,7 @@ Simulates rolling multiple dice as many times as the user wants.
 Generates a custom password based on user-specified number of digits, letters, and symbols. Also gives a password strength rating.  
 🔸 **Concepts**: Random selections, String manipulation, Lists
 
-### 🏧 6. ATM Simulation
+### 🏧 6. ATM Simulation (Tier 3)
 A basic simulation of ATM operations including balance inquiry, deposit, and withdrawal.  
 🔸 **Concepts**: Conditionals, User Input, Basic banking logic, Error handling
 
