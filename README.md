@@ -2,7 +2,8 @@
 
 This repository contains a growing collection of beginner to intermediate-level Python projects. Each project demonstrates a specific concept or use case in Python, from games to utilities. More projects will be added in the future!
 
----
+--- 
+
 
 ## 📂 Current Projects
 
