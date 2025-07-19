@@ -1,3 +1,5 @@
+© 2025 Rahul Chatterjee. All rights reserved. Unauthorized use is prohibited.
+
 # 🐍 Python Mini Projects
 
 This repository contains a growing collection of beginner to intermediate-level Python projects. Each project demonstrates a specific concept or use case in Python, from games to utilities. More projects will be added in the future!
